@@ -1,4 +1,3 @@
-# MiniProject3-2
 <h1>Analysing real-time messages(WhatsApp) to find depressive traits</h1> 
 
 <h2>Usage:</h2
