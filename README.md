@@ -1,7 +1,7 @@
 # MiniProject3-2
 <h1>Analysing real-time messages(WhatsApp) to find depressive traits</h1> 
 
-Usage:
+<h2>Usage:</h2
 
 **Step 1**
 ![data_aq](https://github.com/jagannathsrs/chatAnalysis/blob/master/Outputs/data%20acq.png)
@@ -45,14 +45,4 @@ This project would involve four major steps:
 The project back-end will be done using Python;front-end would
 be web-based (using HTML, CSS, Plotly.js)
 
-<h3> Progress so far (14/2/18) </h3>
 
-**MiniProject3-2/ConvertToCSV.ipynb**
-This code converts a text file of the chat history mailed from WhatsApp to a CSV file consisting of 3 columns:
-
-1. **TimeStamp**
-2. **User**
-3. **Message**
-
-RegX has been used to split the 3.
-Lines which do not have a TimeStamp ( very long messages) have been handled by inputting the previous user and TimeStamp until a new User and TimeStamp is found.
